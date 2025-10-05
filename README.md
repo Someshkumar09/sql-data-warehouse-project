@@ -27,6 +27,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 ## Data Architecture
 
 
+![SQL Project](https://github.com/user-attachments/assets/17fbe2c9-34e1-4bb1-9145-22bbfea6de4f)# Data Warehouse And Analytics Project
 
 
 ## BI: Analytics & Reporting (Data Analytics)
